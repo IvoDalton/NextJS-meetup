@@ -1,0 +1,1 @@
+{"ast":null,"code":"function Welcome() {\n  return;\n}","map":{"version":3,"sources":["C:/Users/User/Desktop/proekti/proekti/REACT/NEXT.JS/next-meetup/pages/index.js"],"names":["Welcome"],"mappings":"AAAA,SAASA,OAAT,GAAkB;AAChB;AACD","sourcesContent":["function Welcome(){\r\n  return \r\n}"]},"metadata":{},"sourceType":"script"}
